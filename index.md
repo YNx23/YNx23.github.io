@@ -1,3 +1,8 @@
+---
+title: Home
+nav_order: 1
+---
+
 # 🌍 Climate, GIS & Disaster Resource Hub
 
 Welcome to a curated hub of resources in climate change, Geographic Information Systems (GIS), disaster risk management (DRM), and sustainability.  
