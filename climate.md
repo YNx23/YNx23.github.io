@@ -1,3 +1,8 @@
+---
+title: Climate
+nav_order: 2
+---
+
 ## 🌱 Climate Science & Governance
 
 | Resource Name | Skill Level | Format | Cost | Category | Organization | Link |
