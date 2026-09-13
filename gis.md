@@ -1,3 +1,8 @@
+---
+title: GIS
+nav_order: 3
+---
+
 ## 🗺️ GIS & Spatial Data Science
 
 | Resource Name | Skill Level | Format | Cost | Category | Organization | Link |
