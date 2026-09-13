@@ -6,3 +6,10 @@ url: https://ynx23.github.io/
 
 plugins:
   - jekyll-default-layout
+
+# Navigation order
+nav_order: 1
+
+# Enable search
+just_the_docs:
+  search_enabled: true
