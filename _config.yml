@@ -3,3 +3,6 @@ description: A curated hub of resources in climate change, GIS, disaster risk ma
 theme: just-the-docs
 
 url: https://ynx23.github.io
+
+plugins:
+  - jekyll-default-layout
